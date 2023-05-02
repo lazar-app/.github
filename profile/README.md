@@ -1,4 +1,4 @@
-# .github
+# lazar-app
 For a more in depth overview of all LazAR subcomponents, please view their respective public repositiories:
 
  - lazar-backend
